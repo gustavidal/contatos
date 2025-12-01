@@ -41,8 +41,5 @@ public class ContatoRepository {
         } catch (IOException erro) {
             erro.printStackTrace();
         }
-
-
     }
-
 }
